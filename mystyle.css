@@ -1,0 +1,43 @@
+/* Header styles */
+h1 {
+  font-family: "Arial Narrow", sans-serif;
+  color: red;
+  margin-left: 40px;
+}
+
+h2 {
+  color:black;
+  font-family: fantasy;
+}
+
+/* Navigation bar styles */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #030303;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #04AA6D;
+  color: #000;
+}
+
+/* Footer styles */
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(88, 50, 50);
+  color: #000;
+  text-align: center;
+  padding: 10px 0;
+}
